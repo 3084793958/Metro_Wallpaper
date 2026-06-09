@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>GZ_METRO/0.png</file>
+        <file>GZ_METRO/1.png</file>
+        <file>GZ_METRO/2.png</file>
+        <file>GZ_METRO/3.png</file>
+        <file>GZ_METRO/4.png</file>
+        <file>GZ_METRO/5.png</file>
+        <file>GZ_METRO/6.png</file>
+        <file>GZ_METRO/7.png</file>
+        <file>GZ_METRO/8.png</file>
+        <file>GZ_METRO/9.png</file>
+        <file>GZ_METRO/GMM.png</file>
+    </qresource>
+</RCC>
