@@ -17,7 +17,8 @@ HEADERS += \
 SOURCES += \
     metro_wallpaper.cpp \
     interfaces/easy_desktop_class.cpp \
-    interfaces/wallpaper/wallpaper_info_def.cpp
+    interfaces/wallpaper/wallpaper_info_def.cpp \
+    interfaces/wallpaper/wallpaper_plugin.cpp
 
 RESOURCES += \
     metro_pic.qrc
